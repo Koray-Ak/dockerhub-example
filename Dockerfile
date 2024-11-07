@@ -1,3 +1,4 @@
+#
 # Temel imaj olarak Debian kullanılıyor
 FROM debian:latest
 
